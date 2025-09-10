@@ -150,6 +150,12 @@ let iterador3 = colores4.values();
 console.log([...iterador3]); // ['rojo', 'verde', 'azul']
 
 
+let colores5 = ['rojo', 'verde', 'azul'];
+colores.forEach()
+
+
+
+
 let arreglo = [1, 2, 3, "texto", true];
 
 const arroglo2 = [1, 2, 3, "texto", true];
